@@ -7,12 +7,8 @@ I use **Python** and **Excel** to clean data, build dashboards, and automate rec
 - Python
 - Excel
 - MS Office
-
-## 🚀 Projects
-I’m currently organizing my work and publishing my first analytics projects here:
-- EDA + data cleaning (Python)
-- KPI dashboard/report template (Excel)
-- Time-series analysis mini project
+- SQL
+- Power BI
 
 ## 📫 Contact
 - Email: lukasz.banik03@gmail.com
