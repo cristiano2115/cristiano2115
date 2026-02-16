@@ -1,16 +1,19 @@
-## Hi there 👋
+# Łukasz Banik
 
-<!--
-**cristiano2115/cristiano2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Analyst Intern** and a 3rd year **B.Eng. Applied Mathematics student** at Wrocław University of Science and Technology.
+I use **Python** and **Excel** to clean data, build dashboards, and automate recurring reports.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- Excel (dashboards, reporting)
+- MS Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+I’m currently organizing my work and publishing my first analytics projects here:
+- EDA + data cleaning (Python)
+- KPI dashboard/report template (Excel)
+- Time-series analysis mini project
+
+## 📫 Contact
+- Email: lukasz.banik03@gmail.com
+- LinkedIn: www.linkedin.com/in/łukasz-banik-863221310
