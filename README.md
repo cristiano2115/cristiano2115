@@ -5,7 +5,7 @@ I use **Python** and **Excel** to clean data, build dashboards, and automate rec
 
 ## 🔧 Tech Stack
 - Python
-- Excel (dashboards, reporting)
+- Excel
 - MS Office
 
 ## 🚀 Projects
