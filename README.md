@@ -1,7 +1,6 @@
 # Łukasz Banik
 
-I’m a **Data Analyst Intern** and a 3rd year **B.Eng. Applied Mathematics student** at Wrocław University of Science and Technology.
-I use **Python** and **Excel** to clean data, build dashboards, and automate recurring reports.
+Third-year B.Eng. Applied Mathematics student at Wrocław University of Science and Technology with hands-on data analytics in Python, SQL, Excel, and Power BI. Focused on delivering clear reports and dashboards to improve decision-making and reporting efficiency.
 
 ## 🔧 Tech Stack
 - Python
